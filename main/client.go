@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	pb "toupper/proto"
+	pb "example-grpc-go/proto"
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
